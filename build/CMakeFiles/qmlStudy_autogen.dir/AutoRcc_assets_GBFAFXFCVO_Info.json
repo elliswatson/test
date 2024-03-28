@@ -1,0 +1,19 @@
+{
+	"BUILD_DIR" : "C:/Users/shoucheng/Desktop/test/build/qmlStudy_autogen",
+	"CMAKE_BINARY_DIR" : "C:/Users/shoucheng/Desktop/test/build",
+	"CMAKE_CURRENT_BINARY_DIR" : "C:/Users/shoucheng/Desktop/test/build",
+	"CMAKE_CURRENT_SOURCE_DIR" : "C:/Users/shoucheng/Desktop/test",
+	"CMAKE_SOURCE_DIR" : "C:/Users/shoucheng/Desktop/test",
+	"INCLUDE_DIR" : "C:/Users/shoucheng/Desktop/test/build/qmlStudy_autogen/include",
+	"INPUTS" : [ "C:/Users/shoucheng/Desktop/test/assets/qml/main.qml" ],
+	"LOCK_FILE" : "C:/Users/shoucheng/Desktop/test/build/CMakeFiles/qmlStudy_autogen.dir/AutoRcc_assets_GBFAFXFCVO_Lock.lock",
+	"MULTI_CONFIG" : false,
+	"OPTIONS" : [ "-name", "assets" ],
+	"OUTPUT_CHECKSUM" : "GBFAFXFCVO",
+	"OUTPUT_NAME" : "qrc_assets.cpp",
+	"RCC_EXECUTABLE" : "C:/Qt/6.5.3/mingw_64/./bin/rcc.exe",
+	"RCC_LIST_OPTIONS" : [ "--list" ],
+	"SETTINGS_FILE" : "C:/Users/shoucheng/Desktop/test/build/CMakeFiles/qmlStudy_autogen.dir/AutoRcc_assets_GBFAFXFCVO_Used.txt",
+	"SOURCE" : "C:/Users/shoucheng/Desktop/test/assets/assets.qrc",
+	"VERBOSITY" : 0
+}

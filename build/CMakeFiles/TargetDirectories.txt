@@ -1,0 +1,8 @@
+C:/Users/shoucheng/Desktop/test/build/CMakeFiles/qmlStudy.dir
+C:/Users/shoucheng/Desktop/test/build/CMakeFiles/edit_cache.dir
+C:/Users/shoucheng/Desktop/test/build/CMakeFiles/rebuild_cache.dir
+C:/Users/shoucheng/Desktop/test/build/CMakeFiles/qmlStudy_autogen.dir
+C:/Users/shoucheng/Desktop/test/build/lib/spdlog/CMakeFiles/spdlog.dir
+C:/Users/shoucheng/Desktop/test/build/lib/spdlog/CMakeFiles/edit_cache.dir
+C:/Users/shoucheng/Desktop/test/build/lib/spdlog/CMakeFiles/rebuild_cache.dir
+C:/Users/shoucheng/Desktop/test/build/lib/spdlog/CMakeFiles/spdlog_autogen.dir
