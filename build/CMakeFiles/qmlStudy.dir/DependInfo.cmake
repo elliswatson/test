@@ -10,6 +10,7 @@ set(CMAKE_DEPENDS_LANGUAGES
 set(CMAKE_DEPENDS_DEPENDENCY_FILES
   "C:/Users/shoucheng/Desktop/test/build/qmlStudy_autogen/GBFAFXFCVO/qrc_assets.cpp" "CMakeFiles/qmlStudy.dir/qmlStudy_autogen/GBFAFXFCVO/qrc_assets.cpp.obj" "gcc" "CMakeFiles/qmlStudy.dir/qmlStudy_autogen/GBFAFXFCVO/qrc_assets.cpp.obj.d"
   "C:/Users/shoucheng/Desktop/test/build/qmlStudy_autogen/mocs_compilation.cpp" "CMakeFiles/qmlStudy.dir/qmlStudy_autogen/mocs_compilation.cpp.obj" "gcc" "CMakeFiles/qmlStudy.dir/qmlStudy_autogen/mocs_compilation.cpp.obj.d"
+  "C:/Users/shoucheng/Desktop/test/src/Log.cpp" "CMakeFiles/qmlStudy.dir/src/Log.cpp.obj" "gcc" "CMakeFiles/qmlStudy.dir/src/Log.cpp.obj.d"
   "C:/Users/shoucheng/Desktop/test/src/main.cpp" "CMakeFiles/qmlStudy.dir/src/main.cpp.obj" "gcc" "CMakeFiles/qmlStudy.dir/src/main.cpp.obj.d"
   )
 

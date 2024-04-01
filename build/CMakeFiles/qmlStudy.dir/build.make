@@ -90,11 +90,26 @@ CMakeFiles/qmlStudy.dir/qmlStudy_autogen/mocs_compilation.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling CXX source to assembly CMakeFiles/qmlStudy.dir/qmlStudy_autogen/mocs_compilation.cpp.s"
 	C:\Qt\Tools\mingw1120_64\bin\c++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S C:\Users\shoucheng\Desktop\test\build\qmlStudy_autogen\mocs_compilation.cpp -o CMakeFiles\qmlStudy.dir\qmlStudy_autogen\mocs_compilation.cpp.s
 
+CMakeFiles/qmlStudy.dir/src/Log.cpp.obj: CMakeFiles/qmlStudy.dir/flags.make
+CMakeFiles/qmlStudy.dir/src/Log.cpp.obj: CMakeFiles/qmlStudy.dir/includes_CXX.rsp
+CMakeFiles/qmlStudy.dir/src/Log.cpp.obj: C:/Users/shoucheng/Desktop/test/src/Log.cpp
+CMakeFiles/qmlStudy.dir/src/Log.cpp.obj: CMakeFiles/qmlStudy.dir/compiler_depend.ts
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=C:\Users\shoucheng\Desktop\test\build\CMakeFiles --progress-num=$(CMAKE_PROGRESS_3) "Building CXX object CMakeFiles/qmlStudy.dir/src/Log.cpp.obj"
+	C:\Qt\Tools\mingw1120_64\bin\c++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/qmlStudy.dir/src/Log.cpp.obj -MF CMakeFiles\qmlStudy.dir\src\Log.cpp.obj.d -o CMakeFiles\qmlStudy.dir\src\Log.cpp.obj -c C:\Users\shoucheng\Desktop\test\src\Log.cpp
+
+CMakeFiles/qmlStudy.dir/src/Log.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing CXX source to CMakeFiles/qmlStudy.dir/src/Log.cpp.i"
+	C:\Qt\Tools\mingw1120_64\bin\c++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E C:\Users\shoucheng\Desktop\test\src\Log.cpp > CMakeFiles\qmlStudy.dir\src\Log.cpp.i
+
+CMakeFiles/qmlStudy.dir/src/Log.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling CXX source to assembly CMakeFiles/qmlStudy.dir/src/Log.cpp.s"
+	C:\Qt\Tools\mingw1120_64\bin\c++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S C:\Users\shoucheng\Desktop\test\src\Log.cpp -o CMakeFiles\qmlStudy.dir\src\Log.cpp.s
+
 CMakeFiles/qmlStudy.dir/src/main.cpp.obj: CMakeFiles/qmlStudy.dir/flags.make
 CMakeFiles/qmlStudy.dir/src/main.cpp.obj: CMakeFiles/qmlStudy.dir/includes_CXX.rsp
 CMakeFiles/qmlStudy.dir/src/main.cpp.obj: C:/Users/shoucheng/Desktop/test/src/main.cpp
 CMakeFiles/qmlStudy.dir/src/main.cpp.obj: CMakeFiles/qmlStudy.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=C:\Users\shoucheng\Desktop\test\build\CMakeFiles --progress-num=$(CMAKE_PROGRESS_3) "Building CXX object CMakeFiles/qmlStudy.dir/src/main.cpp.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=C:\Users\shoucheng\Desktop\test\build\CMakeFiles --progress-num=$(CMAKE_PROGRESS_4) "Building CXX object CMakeFiles/qmlStudy.dir/src/main.cpp.obj"
 	C:\Qt\Tools\mingw1120_64\bin\c++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/qmlStudy.dir/src/main.cpp.obj -MF CMakeFiles\qmlStudy.dir\src\main.cpp.obj.d -o CMakeFiles\qmlStudy.dir\src\main.cpp.obj -c C:\Users\shoucheng\Desktop\test\src\main.cpp
 
 CMakeFiles/qmlStudy.dir/src/main.cpp.i: cmake_force
@@ -109,7 +124,7 @@ CMakeFiles/qmlStudy.dir/qmlStudy_autogen/GBFAFXFCVO/qrc_assets.cpp.obj: CMakeFil
 CMakeFiles/qmlStudy.dir/qmlStudy_autogen/GBFAFXFCVO/qrc_assets.cpp.obj: CMakeFiles/qmlStudy.dir/includes_CXX.rsp
 CMakeFiles/qmlStudy.dir/qmlStudy_autogen/GBFAFXFCVO/qrc_assets.cpp.obj: qmlStudy_autogen/GBFAFXFCVO/qrc_assets.cpp
 CMakeFiles/qmlStudy.dir/qmlStudy_autogen/GBFAFXFCVO/qrc_assets.cpp.obj: CMakeFiles/qmlStudy.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=C:\Users\shoucheng\Desktop\test\build\CMakeFiles --progress-num=$(CMAKE_PROGRESS_4) "Building CXX object CMakeFiles/qmlStudy.dir/qmlStudy_autogen/GBFAFXFCVO/qrc_assets.cpp.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=C:\Users\shoucheng\Desktop\test\build\CMakeFiles --progress-num=$(CMAKE_PROGRESS_5) "Building CXX object CMakeFiles/qmlStudy.dir/qmlStudy_autogen/GBFAFXFCVO/qrc_assets.cpp.obj"
 	C:\Qt\Tools\mingw1120_64\bin\c++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/qmlStudy.dir/qmlStudy_autogen/GBFAFXFCVO/qrc_assets.cpp.obj -MF CMakeFiles\qmlStudy.dir\qmlStudy_autogen\GBFAFXFCVO\qrc_assets.cpp.obj.d -o CMakeFiles\qmlStudy.dir\qmlStudy_autogen\GBFAFXFCVO\qrc_assets.cpp.obj -c C:\Users\shoucheng\Desktop\test\build\qmlStudy_autogen\GBFAFXFCVO\qrc_assets.cpp
 
 CMakeFiles/qmlStudy.dir/qmlStudy_autogen/GBFAFXFCVO/qrc_assets.cpp.i: cmake_force
@@ -123,6 +138,7 @@ CMakeFiles/qmlStudy.dir/qmlStudy_autogen/GBFAFXFCVO/qrc_assets.cpp.s: cmake_forc
 # Object files for target qmlStudy
 qmlStudy_OBJECTS = \
 "CMakeFiles/qmlStudy.dir/qmlStudy_autogen/mocs_compilation.cpp.obj" \
+"CMakeFiles/qmlStudy.dir/src/Log.cpp.obj" \
 "CMakeFiles/qmlStudy.dir/src/main.cpp.obj" \
 "CMakeFiles/qmlStudy.dir/qmlStudy_autogen/GBFAFXFCVO/qrc_assets.cpp.obj"
 
@@ -130,6 +146,7 @@ qmlStudy_OBJECTS = \
 qmlStudy_EXTERNAL_OBJECTS =
 
 C:/Users/shoucheng/Desktop/test/bin/qmlStudy.exe: CMakeFiles/qmlStudy.dir/qmlStudy_autogen/mocs_compilation.cpp.obj
+C:/Users/shoucheng/Desktop/test/bin/qmlStudy.exe: CMakeFiles/qmlStudy.dir/src/Log.cpp.obj
 C:/Users/shoucheng/Desktop/test/bin/qmlStudy.exe: CMakeFiles/qmlStudy.dir/src/main.cpp.obj
 C:/Users/shoucheng/Desktop/test/bin/qmlStudy.exe: CMakeFiles/qmlStudy.dir/qmlStudy_autogen/GBFAFXFCVO/qrc_assets.cpp.obj
 C:/Users/shoucheng/Desktop/test/bin/qmlStudy.exe: CMakeFiles/qmlStudy.dir/build.make
@@ -145,7 +162,7 @@ C:/Users/shoucheng/Desktop/test/bin/qmlStudy.exe: C:/Qt/6.5.3/mingw_64/lib/libQt
 C:/Users/shoucheng/Desktop/test/bin/qmlStudy.exe: CMakeFiles/qmlStudy.dir/linkLibs.rsp
 C:/Users/shoucheng/Desktop/test/bin/qmlStudy.exe: CMakeFiles/qmlStudy.dir/objects1.rsp
 C:/Users/shoucheng/Desktop/test/bin/qmlStudy.exe: CMakeFiles/qmlStudy.dir/link.txt
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --bold --progress-dir=C:\Users\shoucheng\Desktop\test\build\CMakeFiles --progress-num=$(CMAKE_PROGRESS_5) "Linking CXX executable C:\Users\shoucheng\Desktop\test\bin\qmlStudy.exe"
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --bold --progress-dir=C:\Users\shoucheng\Desktop\test\build\CMakeFiles --progress-num=$(CMAKE_PROGRESS_6) "Linking CXX executable C:\Users\shoucheng\Desktop\test\bin\qmlStudy.exe"
 	$(CMAKE_COMMAND) -E cmake_link_script CMakeFiles\qmlStudy.dir\link.txt --verbose=$(VERBOSE)
 
 # Rule to build all files generated by this target.

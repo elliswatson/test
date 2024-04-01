@@ -215,6 +215,30 @@ qmlStudy_autogen/mocs_compilation.cpp.s:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\qmlStudy.dir\build.make CMakeFiles/qmlStudy.dir/qmlStudy_autogen/mocs_compilation.cpp.s
 .PHONY : qmlStudy_autogen/mocs_compilation.cpp.s
 
+src/Log.obj: src/Log.cpp.obj
+.PHONY : src/Log.obj
+
+# target to build an object file
+src/Log.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\qmlStudy.dir\build.make CMakeFiles/qmlStudy.dir/src/Log.cpp.obj
+.PHONY : src/Log.cpp.obj
+
+src/Log.i: src/Log.cpp.i
+.PHONY : src/Log.i
+
+# target to preprocess a source file
+src/Log.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\qmlStudy.dir\build.make CMakeFiles/qmlStudy.dir/src/Log.cpp.i
+.PHONY : src/Log.cpp.i
+
+src/Log.s: src/Log.cpp.s
+.PHONY : src/Log.s
+
+# target to generate assembly for a file
+src/Log.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\qmlStudy.dir\build.make CMakeFiles/qmlStudy.dir/src/Log.cpp.s
+.PHONY : src/Log.cpp.s
+
 src/main.obj: src/main.cpp.obj
 .PHONY : src/main.obj
 
@@ -257,6 +281,9 @@ help:
 	@echo ... qmlStudy_autogen/mocs_compilation.obj
 	@echo ... qmlStudy_autogen/mocs_compilation.i
 	@echo ... qmlStudy_autogen/mocs_compilation.s
+	@echo ... src/Log.obj
+	@echo ... src/Log.i
+	@echo ... src/Log.s
 	@echo ... src/main.obj
 	@echo ... src/main.i
 	@echo ... src/main.s

@@ -1,0 +1,74 @@
+[
+{
+  "directory": "C:/Users/shoucheng/Desktop/test/build",
+  "command": "C:\\Qt\\Tools\\mingw1120_64\\bin\\c++.exe -DMINGW_HAS_SECURE_API=1 -DQT_CORE_LIB -DQT_GUI_LIB -DQT_NEEDS_QMAIN -DQT_NETWORK_LIB -DQT_NO_DEBUG -DQT_OPENGL_LIB -DQT_QMLINTEGRATION_LIB -DQT_QMLMODELS_LIB -DQT_QML_LIB -DQT_QUICKCONTROLS2_LIB -DQT_QUICK_LIB -DUNICODE -DWIN32 -DWIN64 -D_ENABLE_EXTENDED_ALIGNED_STORAGE -D_UNICODE -D_WIN64 @CMakeFiles/qmlStudy.dir/includes_CXX.rsp -O3 -DNDEBUG -std=gnu++17 -o CMakeFiles\\qmlStudy.dir\\qmlStudy_autogen\\mocs_compilation.cpp.obj -c C:\\Users\\shoucheng\\Desktop\\test\\build\\qmlStudy_autogen\\mocs_compilation.cpp",
+  "file": "C:/Users/shoucheng/Desktop/test/build/qmlStudy_autogen/mocs_compilation.cpp",
+  "output": "CMakeFiles/qmlStudy.dir/qmlStudy_autogen/mocs_compilation.cpp.obj"
+},
+{
+  "directory": "C:/Users/shoucheng/Desktop/test/build",
+  "command": "C:\\Qt\\Tools\\mingw1120_64\\bin\\c++.exe -DMINGW_HAS_SECURE_API=1 -DQT_CORE_LIB -DQT_GUI_LIB -DQT_NEEDS_QMAIN -DQT_NETWORK_LIB -DQT_NO_DEBUG -DQT_OPENGL_LIB -DQT_QMLINTEGRATION_LIB -DQT_QMLMODELS_LIB -DQT_QML_LIB -DQT_QUICKCONTROLS2_LIB -DQT_QUICK_LIB -DUNICODE -DWIN32 -DWIN64 -D_ENABLE_EXTENDED_ALIGNED_STORAGE -D_UNICODE -D_WIN64 @CMakeFiles/qmlStudy.dir/includes_CXX.rsp -O3 -DNDEBUG -std=gnu++17 -o CMakeFiles\\qmlStudy.dir\\src\\BackEnd.cpp.obj -c C:\\Users\\shoucheng\\Desktop\\test\\src\\BackEnd.cpp",
+  "file": "C:/Users/shoucheng/Desktop/test/src/BackEnd.cpp",
+  "output": "CMakeFiles/qmlStudy.dir/src/BackEnd.cpp.obj"
+},
+{
+  "directory": "C:/Users/shoucheng/Desktop/test/build",
+  "command": "C:\\Qt\\Tools\\mingw1120_64\\bin\\c++.exe -DMINGW_HAS_SECURE_API=1 -DQT_CORE_LIB -DQT_GUI_LIB -DQT_NEEDS_QMAIN -DQT_NETWORK_LIB -DQT_NO_DEBUG -DQT_OPENGL_LIB -DQT_QMLINTEGRATION_LIB -DQT_QMLMODELS_LIB -DQT_QML_LIB -DQT_QUICKCONTROLS2_LIB -DQT_QUICK_LIB -DUNICODE -DWIN32 -DWIN64 -D_ENABLE_EXTENDED_ALIGNED_STORAGE -D_UNICODE -D_WIN64 @CMakeFiles/qmlStudy.dir/includes_CXX.rsp -O3 -DNDEBUG -std=gnu++17 -o CMakeFiles\\qmlStudy.dir\\src\\main.cpp.obj -c C:\\Users\\shoucheng\\Desktop\\test\\src\\main.cpp",
+  "file": "C:/Users/shoucheng/Desktop/test/src/main.cpp",
+  "output": "CMakeFiles/qmlStudy.dir/src/main.cpp.obj"
+},
+{
+  "directory": "C:/Users/shoucheng/Desktop/test/build",
+  "command": "C:\\Qt\\Tools\\mingw1120_64\\bin\\c++.exe -DMINGW_HAS_SECURE_API=1 -DQT_CORE_LIB -DQT_GUI_LIB -DQT_NEEDS_QMAIN -DQT_NETWORK_LIB -DQT_NO_DEBUG -DQT_OPENGL_LIB -DQT_QMLINTEGRATION_LIB -DQT_QMLMODELS_LIB -DQT_QML_LIB -DQT_QUICKCONTROLS2_LIB -DQT_QUICK_LIB -DUNICODE -DWIN32 -DWIN64 -D_ENABLE_EXTENDED_ALIGNED_STORAGE -D_UNICODE -D_WIN64 @CMakeFiles/qmlStudy.dir/includes_CXX.rsp -O3 -DNDEBUG -std=gnu++17 -o CMakeFiles\\qmlStudy.dir\\qmlStudy_autogen\\GBFAFXFCVO\\qrc_assets.cpp.obj -c C:\\Users\\shoucheng\\Desktop\\test\\build\\qmlStudy_autogen\\GBFAFXFCVO\\qrc_assets.cpp",
+  "file": "C:/Users/shoucheng/Desktop/test/build/qmlStudy_autogen/GBFAFXFCVO/qrc_assets.cpp",
+  "output": "CMakeFiles/qmlStudy.dir/qmlStudy_autogen/GBFAFXFCVO/qrc_assets.cpp.obj"
+},
+{
+  "directory": "C:/Users/shoucheng/Desktop/test/build/lib/spdlog",
+  "command": "C:\\Qt\\Tools\\mingw1120_64\\bin\\c++.exe -DFMT_EXPORT -DFMT_SHARED -DSPDLOG_COMPILED_LIB -DSPDLOG_SHARED_LIB -Dspdlog_EXPORTS @CMakeFiles/spdlog.dir/includes_CXX.rsp -O3 -DNDEBUG -std=c++17 -o CMakeFiles\\spdlog.dir\\spdlog_autogen\\mocs_compilation.cpp.obj -c C:\\Users\\shoucheng\\Desktop\\test\\build\\lib\\spdlog\\spdlog_autogen\\mocs_compilation.cpp",
+  "file": "C:/Users/shoucheng/Desktop/test/build/lib/spdlog/spdlog_autogen/mocs_compilation.cpp",
+  "output": "lib/spdlog/CMakeFiles/spdlog.dir/spdlog_autogen/mocs_compilation.cpp.obj"
+},
+{
+  "directory": "C:/Users/shoucheng/Desktop/test/build/lib/spdlog",
+  "command": "C:\\Qt\\Tools\\mingw1120_64\\bin\\c++.exe -DFMT_EXPORT -DFMT_SHARED -DSPDLOG_COMPILED_LIB -DSPDLOG_SHARED_LIB -Dspdlog_EXPORTS @CMakeFiles/spdlog.dir/includes_CXX.rsp -O3 -DNDEBUG -std=c++17 -o CMakeFiles\\spdlog.dir\\src\\spdlog.cpp.obj -c C:\\Users\\shoucheng\\Desktop\\test\\lib\\spdlog\\src\\spdlog.cpp",
+  "file": "C:/Users/shoucheng/Desktop/test/lib/spdlog/src/spdlog.cpp",
+  "output": "lib/spdlog/CMakeFiles/spdlog.dir/src/spdlog.cpp.obj"
+},
+{
+  "directory": "C:/Users/shoucheng/Desktop/test/build/lib/spdlog",
+  "command": "C:\\Qt\\Tools\\mingw1120_64\\bin\\c++.exe -DFMT_EXPORT -DFMT_SHARED -DSPDLOG_COMPILED_LIB -DSPDLOG_SHARED_LIB -Dspdlog_EXPORTS @CMakeFiles/spdlog.dir/includes_CXX.rsp -O3 -DNDEBUG -std=c++17 -o CMakeFiles\\spdlog.dir\\src\\stdout_sinks.cpp.obj -c C:\\Users\\shoucheng\\Desktop\\test\\lib\\spdlog\\src\\stdout_sinks.cpp",
+  "file": "C:/Users/shoucheng/Desktop/test/lib/spdlog/src/stdout_sinks.cpp",
+  "output": "lib/spdlog/CMakeFiles/spdlog.dir/src/stdout_sinks.cpp.obj"
+},
+{
+  "directory": "C:/Users/shoucheng/Desktop/test/build/lib/spdlog",
+  "command": "C:\\Qt\\Tools\\mingw1120_64\\bin\\c++.exe -DFMT_EXPORT -DFMT_SHARED -DSPDLOG_COMPILED_LIB -DSPDLOG_SHARED_LIB -Dspdlog_EXPORTS @CMakeFiles/spdlog.dir/includes_CXX.rsp -O3 -DNDEBUG -std=c++17 -o CMakeFiles\\spdlog.dir\\src\\color_sinks.cpp.obj -c C:\\Users\\shoucheng\\Desktop\\test\\lib\\spdlog\\src\\color_sinks.cpp",
+  "file": "C:/Users/shoucheng/Desktop/test/lib/spdlog/src/color_sinks.cpp",
+  "output": "lib/spdlog/CMakeFiles/spdlog.dir/src/color_sinks.cpp.obj"
+},
+{
+  "directory": "C:/Users/shoucheng/Desktop/test/build/lib/spdlog",
+  "command": "C:\\Qt\\Tools\\mingw1120_64\\bin\\c++.exe -DFMT_EXPORT -DFMT_SHARED -DSPDLOG_COMPILED_LIB -DSPDLOG_SHARED_LIB -Dspdlog_EXPORTS @CMakeFiles/spdlog.dir/includes_CXX.rsp -O3 -DNDEBUG -std=c++17 -o CMakeFiles\\spdlog.dir\\src\\file_sinks.cpp.obj -c C:\\Users\\shoucheng\\Desktop\\test\\lib\\spdlog\\src\\file_sinks.cpp",
+  "file": "C:/Users/shoucheng/Desktop/test/lib/spdlog/src/file_sinks.cpp",
+  "output": "lib/spdlog/CMakeFiles/spdlog.dir/src/file_sinks.cpp.obj"
+},
+{
+  "directory": "C:/Users/shoucheng/Desktop/test/build/lib/spdlog",
+  "command": "C:\\Qt\\Tools\\mingw1120_64\\bin\\c++.exe -DFMT_EXPORT -DFMT_SHARED -DSPDLOG_COMPILED_LIB -DSPDLOG_SHARED_LIB -Dspdlog_EXPORTS @CMakeFiles/spdlog.dir/includes_CXX.rsp -O3 -DNDEBUG -std=c++17 -o CMakeFiles\\spdlog.dir\\src\\async.cpp.obj -c C:\\Users\\shoucheng\\Desktop\\test\\lib\\spdlog\\src\\async.cpp",
+  "file": "C:/Users/shoucheng/Desktop/test/lib/spdlog/src/async.cpp",
+  "output": "lib/spdlog/CMakeFiles/spdlog.dir/src/async.cpp.obj"
+},
+{
+  "directory": "C:/Users/shoucheng/Desktop/test/build/lib/spdlog",
+  "command": "C:\\Qt\\Tools\\mingw1120_64\\bin\\c++.exe -DFMT_EXPORT -DFMT_SHARED -DSPDLOG_COMPILED_LIB -DSPDLOG_SHARED_LIB -Dspdlog_EXPORTS @CMakeFiles/spdlog.dir/includes_CXX.rsp -O3 -DNDEBUG -std=c++17 -o CMakeFiles\\spdlog.dir\\src\\cfg.cpp.obj -c C:\\Users\\shoucheng\\Desktop\\test\\lib\\spdlog\\src\\cfg.cpp",
+  "file": "C:/Users/shoucheng/Desktop/test/lib/spdlog/src/cfg.cpp",
+  "output": "lib/spdlog/CMakeFiles/spdlog.dir/src/cfg.cpp.obj"
+},
+{
+  "directory": "C:/Users/shoucheng/Desktop/test/build/lib/spdlog",
+  "command": "C:\\Qt\\Tools\\mingw1120_64\\bin\\c++.exe -DFMT_EXPORT -DFMT_SHARED -DSPDLOG_COMPILED_LIB -DSPDLOG_SHARED_LIB -Dspdlog_EXPORTS @CMakeFiles/spdlog.dir/includes_CXX.rsp -O3 -DNDEBUG -std=c++17 -o CMakeFiles\\spdlog.dir\\src\\bundled_fmtlib_format.cpp.obj -c C:\\Users\\shoucheng\\Desktop\\test\\lib\\spdlog\\src\\bundled_fmtlib_format.cpp",
+  "file": "C:/Users/shoucheng/Desktop/test/lib/spdlog/src/bundled_fmtlib_format.cpp",
+  "output": "lib/spdlog/CMakeFiles/spdlog.dir/src/bundled_fmtlib_format.cpp.obj"
+}
+]

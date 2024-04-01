@@ -10,6 +10,8 @@ file(REMOVE_RECURSE
   "CMakeFiles/qmlStudy.dir/qmlStudy_autogen/GBFAFXFCVO/qrc_assets.cpp.obj.d"
   "CMakeFiles/qmlStudy.dir/qmlStudy_autogen/mocs_compilation.cpp.obj"
   "CMakeFiles/qmlStudy.dir/qmlStudy_autogen/mocs_compilation.cpp.obj.d"
+  "CMakeFiles/qmlStudy.dir/src/Log.cpp.obj"
+  "CMakeFiles/qmlStudy.dir/src/Log.cpp.obj.d"
   "CMakeFiles/qmlStudy.dir/src/main.cpp.obj"
   "CMakeFiles/qmlStudy.dir/src/main.cpp.obj.d"
   "qmlStudy_autogen/GBFAFXFCVO/qrc_assets.cpp"

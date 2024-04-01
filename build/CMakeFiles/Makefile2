@@ -99,12 +99,12 @@ lib/spdlog/clean: lib/spdlog/CMakeFiles/spdlog_autogen.dir/clean
 CMakeFiles/qmlStudy.dir/all: CMakeFiles/qmlStudy_autogen.dir/all
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\qmlStudy.dir\build.make CMakeFiles/qmlStudy.dir/depend
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\qmlStudy.dir\build.make CMakeFiles/qmlStudy.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --progress-dir=C:\Users\shoucheng\Desktop\test\build\CMakeFiles --progress-num=1,2,3,4,5 "Built target qmlStudy"
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --progress-dir=C:\Users\shoucheng\Desktop\test\build\CMakeFiles --progress-num=1,2,3,4,5,6 "Built target qmlStudy"
 .PHONY : CMakeFiles/qmlStudy.dir/all
 
 # Build rule for subdir invocation for target.
 CMakeFiles/qmlStudy.dir/rule: cmake_check_build_system
-	$(CMAKE_COMMAND) -E cmake_progress_start C:\Users\shoucheng\Desktop\test\build\CMakeFiles 6
+	$(CMAKE_COMMAND) -E cmake_progress_start C:\Users\shoucheng\Desktop\test\build\CMakeFiles 7
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\Makefile2 CMakeFiles/qmlStudy.dir/all
 	$(CMAKE_COMMAND) -E cmake_progress_start C:\Users\shoucheng\Desktop\test\build\CMakeFiles 0
 .PHONY : CMakeFiles/qmlStudy.dir/rule
@@ -125,7 +125,7 @@ CMakeFiles/qmlStudy.dir/clean:
 CMakeFiles/qmlStudy_autogen.dir/all:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\qmlStudy_autogen.dir\build.make CMakeFiles/qmlStudy_autogen.dir/depend
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\qmlStudy_autogen.dir\build.make CMakeFiles/qmlStudy_autogen.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --progress-dir=C:\Users\shoucheng\Desktop\test\build\CMakeFiles --progress-num=6 "Built target qmlStudy_autogen"
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --progress-dir=C:\Users\shoucheng\Desktop\test\build\CMakeFiles --progress-num=7 "Built target qmlStudy_autogen"
 .PHONY : CMakeFiles/qmlStudy_autogen.dir/all
 
 # Build rule for subdir invocation for target.
@@ -151,7 +151,7 @@ CMakeFiles/qmlStudy_autogen.dir/clean:
 lib/spdlog/CMakeFiles/spdlog.dir/all: lib/spdlog/CMakeFiles/spdlog_autogen.dir/all
 	$(MAKE) $(MAKESILENT) -f lib\spdlog\CMakeFiles\spdlog.dir\build.make lib/spdlog/CMakeFiles/spdlog.dir/depend
 	$(MAKE) $(MAKESILENT) -f lib\spdlog\CMakeFiles\spdlog.dir\build.make lib/spdlog/CMakeFiles/spdlog.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --progress-dir=C:\Users\shoucheng\Desktop\test\build\CMakeFiles --progress-num=7,8,9,10,11,12,13,14,15,16 "Built target spdlog"
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --progress-dir=C:\Users\shoucheng\Desktop\test\build\CMakeFiles --progress-num=8,9,10,11,12,13,14,15,16,17 "Built target spdlog"
 .PHONY : lib/spdlog/CMakeFiles/spdlog.dir/all
 
 # Build rule for subdir invocation for target.
@@ -177,7 +177,7 @@ lib/spdlog/CMakeFiles/spdlog.dir/clean:
 lib/spdlog/CMakeFiles/spdlog_autogen.dir/all:
 	$(MAKE) $(MAKESILENT) -f lib\spdlog\CMakeFiles\spdlog_autogen.dir\build.make lib/spdlog/CMakeFiles/spdlog_autogen.dir/depend
 	$(MAKE) $(MAKESILENT) -f lib\spdlog\CMakeFiles\spdlog_autogen.dir\build.make lib/spdlog/CMakeFiles/spdlog_autogen.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --progress-dir=C:\Users\shoucheng\Desktop\test\build\CMakeFiles --progress-num=17 "Built target spdlog_autogen"
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --progress-dir=C:\Users\shoucheng\Desktop\test\build\CMakeFiles --progress-num=18 "Built target spdlog_autogen"
 .PHONY : lib/spdlog/CMakeFiles/spdlog_autogen.dir/all
 
 # Build rule for subdir invocation for target.

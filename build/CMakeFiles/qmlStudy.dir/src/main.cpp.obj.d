@@ -365,6 +365,8 @@ CMakeFiles/qmlStudy.dir/src/main.cpp.obj: \
  C:/Qt/6.5.3/mingw_64/include/QtQmlIntegration/qqmlintegration.h \
  C:/Qt/6.5.3/mingw_64/include/QtQml/qqmlerror.h \
  C:/Qt/6.5.3/mingw_64/include/QtQml/qqmlabstracturlinterceptor.h \
+ C:/Qt/6.5.3/mingw_64/include/QtQml/QQmlContext \
+ C:/Qt/6.5.3/mingw_64/include/QtQml/qqmlcontext.h \
  C:/Users/shoucheng/Desktop/test/lib/spdlog/include/spdlog/sinks/basic_file_sink.h \
  C:/Users/shoucheng/Desktop/test/lib/spdlog/include/spdlog/details/file_helper.h \
  C:/Users/shoucheng/Desktop/test/lib/spdlog/include/spdlog/common.h \
@@ -610,4 +612,10 @@ CMakeFiles/qmlStudy.dir/src/main.cpp.obj: \
  C:/Qt/6.5.3/mingw_64/include/QtQuickControls2/QQuickStyle \
  C:/Qt/6.5.3/mingw_64/include/QtQuickControls2/qquickstyle.h \
  C:/Qt/6.5.3/mingw_64/include/QtQuickControls2/qtquickcontrols2global.h \
- C:/Qt/6.5.3/mingw_64/include/QtQuickControls2/qtquickcontrols2exports.h
+ C:/Qt/6.5.3/mingw_64/include/QtQuickControls2/qtquickcontrols2exports.h \
+ C:\Users\shoucheng\Desktop\test\src\include/Log.h \
+ C:/Qt/6.5.3/mingw_64/include/QtCore/QObject \
+ C:/Qt/6.5.3/mingw_64/include/QtCore/qobject.h \
+ C:/Users/shoucheng/Desktop/test/lib/spdlog/include/spdlog/spdlog.h \
+ C:/Users/shoucheng/Desktop/test/lib/spdlog/include/spdlog/version.h \
+ C:/Users/shoucheng/Desktop/test/lib/spdlog/include/spdlog/spdlog-inl.h
