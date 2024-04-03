@@ -1,7 +1,7 @@
 import QtQuick 2.9
 import QtQuick.Window 2.2
 import QtQuick.Controls
-//import Logger 1.0
+import Mylogger 1.0
 Window {
     id: root
     visible: true
@@ -13,7 +13,7 @@ Window {
     Button {
         text: "Log Info"
         onClicked: {
-            mylogger.logInfo("This is an info message");
+            Logger.logInfo("This is an info message");
             //mylogger.quit();
             //mylogger.logInfo("demo");
             }

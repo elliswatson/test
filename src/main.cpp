@@ -11,10 +11,10 @@ int main(int argc, char *argv[])
     Logger logger;
     logger.logInfo("this is a main");
     QGuiApplication app(argc, argv);
-
+    qmlRegisterSingletonInstance("Mylogger",1,0,"Logger",&logger);
     QQmlApplicationEngine engine;
-    QQmlContext* context = engine.rootContext();
-    context->setContextProperty("mylogger",&logger);
+    //QQmlContext* context = engine.rootContext();
+    //context->setContextProperty("mylogger",&logger);
     engine.load(QUrl(QStringLiteral("qrc:/qml/main.qml")));
     if (engine.rootObjects().isEmpty())
         return -1;

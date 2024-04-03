@@ -1,9 +1,7 @@
-[2024-04-01 22:29:07.088] [file] [info] this is a main
-[2024-04-01 22:29:53.701] [file] [info] this is a main
-[2024-04-01 22:29:55.314] [file] [info] demo
-[2024-04-01 22:30:00.995] [file] [info] demo
-[2024-04-01 22:30:01.123] [file] [info] demo
-[2024-04-01 22:30:01.513] [file] [info] demo
-[2024-04-01 22:30:01.671] [file] [info] demo
-[2024-04-01 22:31:04.247] [file] [info] this is a main
-[2024-04-01 22:31:06.481] [file] [info] This is an info message
+[2024-04-03 00:12:13.482] [file] [info] this is a main
+[2024-04-03 00:12:14.921] [file] [info] This is an info message
+[2024-04-03 00:12:15.124] [file] [info] This is an info message
+[2024-04-03 00:12:23.664] [file] [info] This is an info message
+[2024-04-03 00:12:23.846] [file] [info] This is an info message
+[2024-04-03 00:12:24.046] [file] [info] This is an info message
+[2024-04-03 00:12:24.217] [file] [info] This is an info message
